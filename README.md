@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 [![Fjarik's github stats](https://github-readme-stats.vercel.app/api?username=fjarik&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
